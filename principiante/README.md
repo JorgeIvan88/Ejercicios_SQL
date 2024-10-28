@@ -1,1 +1,1 @@
-"Ejercicios Curso Principane SQL"
+"Ejercicios Curso Principiante SQL"
