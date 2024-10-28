@@ -1,4 +1,4 @@
--- Show first name of patients that start with the letter 'C'
+-- Show first name of patients that start with the letter "C"
 SELECT
   first_name
 FROM
