@@ -1,2 +1,2 @@
 # EJERCICIOS_SQL
-"EJERCICIOS DE SQL ORGANIZADOS POR NIVEL DE DIFICLUTAD"
+"Ejercicios Curso de SQL organizados por nivel de dificultad"
