@@ -4,5 +4,5 @@ SELECT
     p.first_name,
     p.last_name
 FROM patients p
-	Left join admissions a ON p.patient_id = a.patient_id
-where diagnosis = "Dementia";
+	LEFT JOIN admissions a ON p.patient_id = a.patient_id
+WHERE diagnosis = "Dementia";
