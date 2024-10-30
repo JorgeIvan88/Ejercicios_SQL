@@ -1,0 +1,22 @@
+--Show the provinces that has more patients identified as 'M' than 'F'. Must only show full province_name
+WITH count_mf AS (
+  SELECT 
+	province_id,
+    CASE 
+    	WHEN gender = "M" THEN 1
+        ELSE 0
+    END AS count_m,
+        CASE 
+    	WHEN gender = "F" THEN 1
+        ELSE 0
+    END AS count_f
+  FROM patients   
+)
+
+SELECT 
+	pn.province_name
+FROM count_mf c
+INNER JOIN province_names pn ON c.province_id = pn.province_id
+GROUP BY pn.province_name
+HAVING sum(count_m) > sum(count_f)
+    
