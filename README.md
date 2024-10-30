@@ -2,6 +2,6 @@
 
 Ejercicios organizados por nivel de dificultad:
 
-- [Principiante](principiante/)
+- [Basico](principiante/)
 - [Intermedio](intermedio/)
 - [Avanzado](avanzado/)
