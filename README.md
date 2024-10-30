@@ -1,2 +1,7 @@
-# EJERCICIOS_SQL
-"Ejercicios Curso de SQL organizados por nivel de dificultad"
+# Ejercicios de SQL
+
+Ejercicios organizados por nivel de dificultad:
+
+- [Principiante](principiante/)
+- [Intermedio](intermedio/)
+- [Avanzado](avanzado/)
