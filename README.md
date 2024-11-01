@@ -1,4 +1,4 @@
-# Codigo de solucion de Ejercicios de SQL
+# "Soluciones_SQL_Practicas"
 
 Bienvenido a mi repositorio de ejercicios SQL. Aquí encontrarás prácticas de diferentes niveles: principiante, intermedio y avanzado.
 
