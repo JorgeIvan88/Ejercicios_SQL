@@ -19,7 +19,7 @@ A continuación se muestra el esquema de la base de datos que utilizaremos para 
 
 ## Estructura del repositorio
 
-- [Easy](principiante/) **Principiante**: Ejercicios básicos para comenzar con SQL.
+- **Principiante**: Ejercicios básicos para comenzar con SQL. - [Easy](principiante/) 
 - **Intermedio**: Ejercicios de dificultad media para practicar consultas más complejas.
 - **Avanzado**: Ejercicios avanzados para profundizar en SQL.
 
